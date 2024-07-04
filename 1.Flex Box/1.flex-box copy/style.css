@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+h1 {
+    flex: 2;
+}
+h2{
+     flex: 0.5;
+}
+p{
+    flex: 3;
+}
+.one {
+    background-color: aqua;
+}
+.note {
+    background-color: cadetblue;
+}

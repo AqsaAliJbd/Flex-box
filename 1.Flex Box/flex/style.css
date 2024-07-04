@@ -1,0 +1,29 @@
+.container {
+   display: flex;
+   gap: 20px;
+   flex-direction: row;
+}
+.flex {
+    height: 200px;
+    width: 250px;
+    background-color: violet;
+    flex: 2;
+}
+.apple {
+    height: 200px;
+    width: 250px;
+    background-color: tomato;
+    flex: 1;
+}
+.corn {
+    height: 200px;
+    width: 250px;
+    background-color: violet;
+    flex: 1;
+}
+.not{
+    height: 200px;
+    width: 250px;
+    background-color: blue;
+    flex: 2;
+}
