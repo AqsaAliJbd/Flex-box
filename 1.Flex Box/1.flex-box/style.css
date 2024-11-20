@@ -1,14 +1,15 @@
 .container {
     display: flex;
     gap: 10px;
-    flex-direction: row;
-    background-color: red;
+    flex-direction: column;
+    
 }
 .mec {
+    
 
-    background-color: brown;
+    
 }
 .alpha {
     
-    background-color: blue;
+
 }
